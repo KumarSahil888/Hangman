@@ -175,7 +175,7 @@ Feel free to fork this project and submit pull requests for improvements. Some a
 - Better user interface
 - Code documentation improvements
 
-## 📄 License
+## 📄 License 
 
 This project is open source and available under the MIT License.
 
