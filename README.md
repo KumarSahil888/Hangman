@@ -10,7 +10,7 @@ This Hangman game challenges players to guess a randomly selected word from a pr
 
 - Random word selection from a fruit-themed word list
 - Interactive letter-by-letter guessing
-- Visual hangman ASCII art progression
+- Visual hangman ASCII art progression 
 - Life counter system (6 lives total)
 - Win/lose game states with appropriate messages
 - Real-time display of guessed letters in their correct positions
