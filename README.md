@@ -1,5 +1,5 @@
 # Hangman Game 🎮      
- 
+  
 A classic word-guessing game implemented in Python where players try to guess a hidden word letter by letter before running out of lives. 
 
 ## 📝 Description
