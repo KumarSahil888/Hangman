@@ -80,3 +80,4 @@ while not game_over:
     print(life)
     print(stages[life])
 print(l2)   
+
